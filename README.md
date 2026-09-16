@@ -1,4 +1,4 @@
-# 🎬 Cinewood
+# 🎬 CineBook
 
 A backend REST API for a movie ticket booking platform, built with **Spring Boot 3.5.6** and **Java 21**. It supports managing movies, theatres, screens, and shows, along with seat-level booking, JWT-based authentication, and role-based access control (Admin, Theatre Manager, User).
 
