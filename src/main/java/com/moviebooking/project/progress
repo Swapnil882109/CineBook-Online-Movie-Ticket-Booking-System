@@ -1,0 +1,31 @@
+
+
+
+add get all shows by screen in showService and fix theatre method
+check update theatre function
+check whether screenid is required in update show or not
+
+
+learn servlet filter chain
+
+->spring security need to fetch the data of user to match password or data with the coming request for it the method
+  should be defined whether we are getting it from database or in memory usage for that we make the userDetailsServiceImpl
+
+authetication manager uses the authenticate function to check whether the details given by user for login is correct or not
+
+when a user is autheticated we build the token for it to give in response , so that the token can be used in upcoming requests
+no need to authenticate everytime
+
+
+
+NEED TO FIX PRICING SYSTEM
+
+show seat not working correctly
+
+improve outputs when accessing show
+
+adding payment gateway
+
+email notification
+
+generate ticket
